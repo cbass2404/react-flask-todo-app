@@ -11,7 +11,4 @@
 - [flask-marshmallow-docs](https://flask-marshmallow.readthedocs.io/)
 
 ## TODO:
-- Create Routes
-    - Edit a sindle todo 'DONE property'
-    - Delete a single todo
 - Host the api on Heroku
