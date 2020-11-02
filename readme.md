@@ -12,10 +12,6 @@
 
 ## TODO:
 - Create Routes
-    - Create a todo
-    - Get all todos
     - Edit a sindle todo 'DONE property'
     - Delete a single todo
-- Create a database
-- Create Todo Class
 - Host the api on Heroku
